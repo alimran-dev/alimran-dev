@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a>
+<img src="https://github.com/alimran-dev/alimran-dev/blob/main/images/banner.png" />
+</a>
+
 ## 📫 Connect with me
 
 <br>

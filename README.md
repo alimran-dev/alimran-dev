@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 Connect with me
+<br>
+<a href="https://github.com/alimran-dev">
+<img src="https://github.com/alimran-dev/alimran-dev/blob/main/images/github.png" />
+</a>
+
+
+## 💻 Technologies that I know
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,express,mongodb,nodejs,firebase,figma,git,github,vscode" />
+</p>
+
+## 📈 Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alimran-dev&theme=monokai&hide_border=false&border_radius=10)](https://git.io/streak-stats)

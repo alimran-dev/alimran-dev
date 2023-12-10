@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alimran-dev/alimran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,16 @@ Here are some ideas to get you started:
 <a>
 <img src="https://github.com/alimran-dev/alimran-dev/blob/main/images/banner.png" />
 </a>
+
+## 👨‍💻 About me
+
+<p>I'm a passionate web developer with a strong interest in mern stack.</p>
+
+## 👀 Current Overview
+- 🌱 I’m currently learning advance backend.
+- 👯 I’m looking to collaborate on team work.
+- 🤔 I’m looking for help with backend
+- 💬 Ask me about frontend.
 
 ## 📫 Connect with me
 
